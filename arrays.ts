@@ -18,10 +18,10 @@ ageList[0] = 99;
 const bools: Array<boolean> = [];
 const bools2: boolean[] = [];
 
-type Point = {
-  x: number;
-  y: number;
-};
+// type Point = {
+//   x: number;
+//   y: number;
+// };
 
 const coords: Point[] = [];
 coords.push({ x: 23, y: 8 });
@@ -42,10 +42,10 @@ const ages: number[] = [];
 
 const gameBoard: string[][] = [];
 
-type Product = {
-  name: string;
-  price: number;
-};
+// type Product = {
+//   name: string;
+//   price: number;
+// };
 
 function getTotal(product: Product[]): number {
   return product.reduce((acc, el) => {
