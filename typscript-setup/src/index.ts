@@ -9,5 +9,5 @@ const norma: Chicken = {
   breed: "Silkie",
   eggsPerWeek: 4,
   name: "Norma",
-  age: 2,
+  age: 4,
 };

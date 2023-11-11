@@ -1,4 +1,4 @@
 "use strict";
 const printProduct = (product) => {
-    console.log(`${product.name}`);
+  console.log(`${product.name}`);
 };
